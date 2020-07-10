@@ -23,10 +23,3 @@ To give an idea of how I use some technologies, here is a table:
 | JavaScript               | In-browser and with Node.js                                                       |
 | Sass                     | CSS but in a more sane style.. well, when using the SCSS syntax, anyway           |
 | HTML & CSS               | Website structure and design, along with modern features                          |
-
-## Links
-[Website](https://uint.dev/)
-<br>
-[Keybase](https://keybase.io/uintdev)
-<br>
-[Twitter](https://twitter.com/uintdev)
