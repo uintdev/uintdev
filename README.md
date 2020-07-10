@@ -20,6 +20,7 @@ To give an idea of how I use some technologies, here is a table:
 | Python                   | Commonly used to quickly create tools or test ideas -- more for experienced users |
 | C/C++                    | Primarily CLI and not used as much as the others                                  |
 | MySQL                    | Typically used in web-related projects involving a database                       |
+| PHP                      | Making use of modern features of a *popular* web backend                          |
 | JavaScript               | In-browser and with Node.js                                                       |
 | Sass                     | CSS but in a more sane style.. well, when using the SCSS syntax, anyway           |
 | HTML & CSS               | Website structure and design, along with modern features                          |
