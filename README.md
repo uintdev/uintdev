@@ -16,7 +16,7 @@ To give an idea of how I use some technologies, here is a table:
 | Framework or language(s) | Details                                                                           |
 | ------------------------ | --------------------------------------------------------------------------------- |
 | Go                       | Used for more serious projects -- usually CLI and can be cross-platform           |
-| Flutter (Dart)           | Mobile applications -- soon, desktop and web too                                  |
+| Flutter (Dart)           | Mobile, web and desktop applications                                              |
 | Python                   | Commonly used to quickly create tools or test ideas -- more for experienced users |
 | C/C++                    | Primarily CLI and not used as much as the others                                  |
 | MySQL                    | Typically used in web-related projects involving a database                       |
