@@ -11,7 +11,7 @@ What else do I do?
 - Find software bugs (or, "unintentional features") 🐛
 - Investigate & resolve or workaround technical issues 🛠
 - Work with electronic components ⚙
-## Tools
+## Toolkit
 
 To give an idea of how I use some technologies...
 
