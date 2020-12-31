@@ -1,26 +1,28 @@
 # Hello. 👋
 
-I develop and test the security of software and websites. 🛠
+I'm a software developer and graphic designer. 
+Developing and testing the security of software and websites.
 
-I also:
+I work on software that makes life easier and have fancy & modern functionality. Full-fledged tools and experiments. While getting to know existing and new technologies along the way.
+
+What else do I do?
 - Create illustrations, noticeably for the more recent projects 🎨
 - Administrate GNU/Linux servers 💻
 - Find software bugs (or, "unintentional features") 🐛
-- Investigate & resolve or workaround technical issues 🔧
+- Investigate & resolve or workaround technical issues 🛠
 - Work with electronic components ⚙
+## Tools
 
-## Technologies
+To give an idea of how I use some technologies...
 
-To give an idea of how I use some technologies, here is a table:
-
-| Framework or language(s) | Details                                                                           |
-| ------------------------ | --------------------------------------------------------------------------------- |
-| Go                       | Used for more serious projects -- usually CLI and can be cross-platform           |
-| Flutter (Dart)           | Mobile, web and desktop applications                                              |
-| Python                   | Commonly used to quickly create tools or test ideas -- more for experienced users |
-| C/C++                    | Primarily CLI and not used as much as the others                                  |
-| MySQL                    | Typically used in web-related projects involving a database                       |
-| PHP                      | Making use of modern features of a *popular* web backend                          |
-| JavaScript               | In-browser and with Node.js                                                       |
-| Sass                     | CSS but in a more sane style.. well, when using the SCSS syntax, anyway           |
-| HTML & CSS               | Website structure and design, along with modern features                          |
+| Technologies   | Use case                                                  |
+| -------------- | --------------------------------------------------------- |
+| Go             | CLI, cross-platform and standalone applications           |
+| Flutter (Dart) | Mobile, web and desktop applications                      |
+| Python         | Often used to produce quick tools and prototype           |
+| C/C++          | Lower-level development                                   |
+| MySQL          | Database management -- usually used with web applications |
+| PHP            | Commonly used backend for web applications                |
+| JavaScript     | Web applications (in-browser) and with Node.js            |
+| Sass           | Cleaner and convenient CSS-based syntax                   |
+| HTML & CSS     | Structuring and styling of web applications               |
