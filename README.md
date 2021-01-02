@@ -15,14 +15,14 @@ What else do I do?
 
 To give an idea of how I use some technologies...
 
-| Technologies   | Use case                           |
-| -------------- | ---------------------------------- |
-| Go             | CLI & cross-platform applications  |
-| Flutter (Dart) | Mobile, web & desktop applications |
-| Python         | Quick tools & prototyping          |
-| C/C++          | Lower-level development            |
-| MySQL & SQLite | Database management                |
-| PHP            | Common web service backend         |
-| JavaScript     | Web applications & Node.js         |
-| Sass           | Convenient CSS-based syntax        |
-| HTML & CSS     | Web application structure & style  |
+| Technologies   | Use case                          |
+| -------------- | --------------------------------- |
+| Flutter (Dart) | GUI & cross-platform applications |
+| Go             | CLI & cross-platform applications |
+| Python         | Quick tools & prototyping         |
+| C/C++          | Lower-level development           |
+| MySQL & SQLite | Database management               |
+| PHP            | Common web service backend        |
+| JavaScript     | Web applications & Node.js        |
+| Sass           | Convenient CSS-based syntax       |
+| HTML & CSS     | Web application structure & style |
