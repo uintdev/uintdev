@@ -3,7 +3,7 @@
 I'm a software developer and graphic designer. 
 Developing and testing the security of software and websites.
 
-I work on software that makes life easier and have fancy & modern functionality. Full-fledged tools and experiments. While getting to know existing and new technologies along the way.
+I work on software that makes life easier with fancy & modern functionality. Full-fledged tools and experiments. While getting to know existing and new technologies along the way.
 
 What else do I do?
 - Create illustrations, noticeably for the more recent projects 🎨
@@ -15,14 +15,14 @@ What else do I do?
 
 To give an idea of how I use some technologies...
 
-| Technologies   | Use case                                                  |
-| -------------- | --------------------------------------------------------- |
-| Go             | CLI, cross-platform and standalone applications           |
-| Flutter (Dart) | Mobile, web and desktop applications                      |
-| Python         | Often used to produce quick tools and prototype           |
-| C/C++          | Lower-level development                                   |
-| MySQL          | Database management -- usually used with web applications |
-| PHP            | Commonly used backend for web applications                |
-| JavaScript     | Web applications (in-browser) and with Node.js            |
-| Sass           | Cleaner and convenient CSS-based syntax                   |
-| HTML & CSS     | Structuring and styling of web applications               |
+| Technologies   | Use case                                      |
+| -------------- | --------------------------------------------- |
+| Go             | CLI, cross-platform & standalone applications |
+| Flutter (Dart) | Mobile, web & desktop applications            |
+| Python         | Quick tools & prototyping                     |
+| C/C++          | Lower-level development                       |
+| MySQL & SQLite | Database management                           |
+| PHP            | Commonly used backend for web applications    |
+| JavaScript     | Web applications (in-browser) & Node.js       |
+| Sass           | Cleaner & convenient CSS-based syntax         |
+| HTML & CSS     | Structuring & styling of web applications     |
