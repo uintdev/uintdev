@@ -22,7 +22,7 @@ To give an idea of how I use some technologies...
 | Python         | Quick tools & prototyping                     |
 | C/C++          | Lower-level development                       |
 | MySQL & SQLite | Database management                           |
-| PHP            | Commonly used backend for web applications    |
-| JavaScript     | Web applications (in-browser) & Node.js       |
+| PHP            | Commonly used web service backend             |
+| JavaScript     | Web applications & Node.js                    |
 | Sass           | Cleaner & convenient CSS-based syntax         |
-| HTML & CSS     | Structuring & styling of web applications     |
+| HTML & CSS     | Web application structuring & styling         |
