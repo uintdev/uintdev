@@ -6,23 +6,10 @@ Developing and testing the security of software and websites.
 I work on software that makes life easier with fancy & modern functionality. Full-fledged tools and experiments. While getting to know existing and new technologies along the way.
 
 What else do I do?
-- Create illustrations, noticeably for the more recent projects 🎨
-- Administrate GNU/Linux servers 💻
+- Create illustrations 🎨
+- Administrate Linux and Windows (servers) 💻
 - Find software bugs (or, "unintentional features") 🐛
 - Investigate & resolve or workaround technical issues 🛠
 - Work with electronic components ⚙
-## Toolkit
 
-To give an idea of how I use some technologies...
-
-| Technologies   | Use case                          |
-| -------------- | --------------------------------- |
-| Flutter (Dart) | GUI & cross-platform applications |
-| Go             | CLI & cross-platform applications |
-| Python         | Quick tools & prototyping         |
-| C/C++          | Lower-level development           |
-| MySQL & SQLite | Database management               |
-| PHP            | Common web service backend        |
-| JavaScript     | Web applications & Node.js        |
-| Sass           | Convenient CSS-based syntax       |
-| HTML & CSS     | Web application structure & style |
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=uintdev&langs_count=8&hide=c,c%2B%2B,makefile,assembly,cmake,objective-c,swift,html,ruby&show_icons=true&layout=compact&bg_color=141414&text_color=ffffff&title_color=ffffff&border_radius=20&hide_border=true" alt="Most used languages">
