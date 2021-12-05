@@ -12,4 +12,4 @@ What else do I do?
 - Investigate & resolve or workaround technical issues 🛠
 - Work with electronic components ⚙
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=uintdev&langs_count=8&hide=c,c%2B%2B,makefile,assembly,cmake,objective-c,swift,html,ruby&show_icons=true&layout=compact&bg_color=141414&text_color=ffffff&title_color=ffffff&border_radius=20&hide_border=true" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=uintdev&langs_count=8&hide=c,c%2B%2B,makefile,assembly,cmake,objective-c,swift,html,ruby,kotlin&show_icons=true&layout=compact&bg_color=141414&text_color=ffffff&title_color=ffffff&border_radius=20&hide_border=true" alt="Most used languages">
