@@ -1,15 +1,15 @@
 # Hello. 👋
 
-I'm a software developer and graphic designer.
+I am a software developer and graphic designer.
 Developing and testing the security of software and websites.
 
-I work on software that makes life easier with fancy & modern functionality. Full-fledged tools and experiments. While getting to know existing and new technologies along the way.
+I work on software that simplifies tasks while having good looks & modern functionality. This includes full-fledged tools and some experiments. That, while getting to know existing and new technologies along the way.
 
 What else do I do?
 
--   Create illustrations 🎨
+-   Create graphics 🎨
 -   Administrate Linux and Windows (servers) 💻
--   Find software bugs (or, "unintentional features") 🐛
+-   Find software bugs 🐛
 -   Investigate & resolve or workaround technical issues 🛠
 -   Work with electronic components ⚙
 
