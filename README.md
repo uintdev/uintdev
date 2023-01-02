@@ -30,4 +30,4 @@ For more (or to have a text representation), refer to [my website](https://uint.
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=uintdev&langs_count=8&hide=c,c%2B%2B,makefile,assembly,cmake,objective-c,swift,ruby,kotlin&show_icons=true&layout=compact&bg_color=242424&text_color=ffffff&title_color=ffffff&border_radius=20&hide_border=true" alt="Most used languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=uintdev&langs_count=8&hide=c,c%2B%2B,makefile,assembly,cmake,objective-c,swift,ruby,kotlin,ejs,html&show_icons=true&layout=compact&bg_color=242424&text_color=ffffff&title_color=ffffff&border_radius=20&hide_border=true" alt="Most used languages">
