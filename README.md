@@ -21,7 +21,7 @@ Below are few of technologies and software I had worked with.
 [![My Skills](https://skillicons.dev/icons?i=rust,flutter,dart,golang,php,python,typescript,sass,html,css,javascript,nodejs,mysql,sqlite,linux,git,nginx,cloudflare,markdown,raspberrypi,vscode,webpack,regex,github,bash,svg&perline=6)](https://skillicons.dev)
 
 ### Know of to an extent
-[![My Skills](https://skillicons.dev/icons?i=webassembly,c,cpp,cs,kotlin,java,androidstudio,visualstudio,powershell,azure,blender,discordbots&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webassembly,cpp,c,cs,visualstudio,kotlin,java,androidstudio,powershell,blender,azure,discordbots&perline=6)](https://skillicons.dev)
 
 For more (and to have a text representation), refer to [my website](https://uint.dev/).
 
