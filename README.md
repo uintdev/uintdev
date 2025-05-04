@@ -1,7 +1,6 @@
-# Hello
+# Hello 👋
 
-I am a software developer and graphic designer, among other things.
-I build software that simplifies tasks while maintaining the focus of being performant, robust, and modern. That, while getting to know existing and new technologies along the way.
+I'm a full-stack software developer, graphic designer, reverse engineer.. among a relatively long list of other things.
 
 Website and blog: https://uint.dev/
 
