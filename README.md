@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm a full-stack software engineer, graphic designer, reverse engineer, among a relatively long list of other things.
+I'm a software engineer, graphic designer, reverse engineer, among a relatively long list of other things.
 
 Website and blog: https://uint.dev/
 
